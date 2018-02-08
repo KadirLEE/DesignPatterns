@@ -1,0 +1,6 @@
+c:\users\gadir\documents\visual studio 2015\Projects\ComputerInfo\ComputerInfo\bin\Debug\ComputerInfo.exe.config
+c:\users\gadir\documents\visual studio 2015\Projects\ComputerInfo\ComputerInfo\bin\Debug\ComputerInfo.exe
+c:\users\gadir\documents\visual studio 2015\Projects\ComputerInfo\ComputerInfo\bin\Debug\ComputerInfo.pdb
+c:\users\gadir\documents\visual studio 2015\Projects\ComputerInfo\ComputerInfo\obj\Debug\ComputerInfo.csprojResolveAssemblyReference.cache
+c:\users\gadir\documents\visual studio 2015\Projects\ComputerInfo\ComputerInfo\obj\Debug\ComputerInfo.exe
+c:\users\gadir\documents\visual studio 2015\Projects\ComputerInfo\ComputerInfo\obj\Debug\ComputerInfo.pdb
